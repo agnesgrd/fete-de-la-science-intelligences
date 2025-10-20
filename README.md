@@ -104,7 +104,7 @@ Fete-de-la-science-MEL/
 ├── mini-jeu2/
 ├── mini-jeu3/
 ├── mission-finale/
-├── autre/
+├── logo/
 └── README.md
 ```
 
