@@ -57,7 +57,7 @@ Sons : un bruit de fond (hôpital vs salle neutre) influence la reconnaissance v
 Données patients : un modèle prédictif biaisé selon le sexe, l’âge ou l’origine.
 Texte : associations de mots reflétant des stéréotypes dans les corpus d’entraînement.
 
-  **Points à retenir :**
+**Points à retenir :**
 
 * En tant qu’humains, nous sommes traversés par de nombreux biais cognitifs.
 * En tant que scientifiques, nous devons identifier et limiter les biais dans nos modèles.
