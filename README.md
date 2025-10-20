@@ -28,11 +28,11 @@ Objectif : vulgariser et comparer les mécanismes d’apprentissage chez l’hum
 
 ### 1. Accueil et mise en contexte
 
-Présentation de la mission : les participant·es deviennent **chercheurs** chargés de construire le modèle le plus performant pour **détecter des tumeurs cérébrales** à partir d’images IRM (jeu de données *BRATS*).
+Présentation de la mission : les participant·es deviennent des **chercheurs** chargés de construire le modèle le plus performant pour **détecter des tumeurs cérébrales** à partir d’images IRM (jeu de données *BRATS*).
 
 Organisation possible : travail en **équipes** ou en **collaboration collective**.
 
-Objectif : comprendre les enjeux de la modélisation et de la qualité des données.
+Objectif : comprendre les enjeux de la quantité et de la qualité des données, de leur correcte labellisation, permettant de répondre au problème.
 
 ### 2. Mini-jeu 1 : Entraîner un modèle
 
@@ -42,7 +42,7 @@ Les participant·es observent comment les exemples influencent les performances.
 **Points à retenir :**
 
 * Un modèle nécessite **beaucoup d’images**.
-* Ces images doivent être **variées** (angles, luminosité, arrière-plans) et **représentatives** de la réalité (class imbalance).
+* Ces images doivent être **variées** (angles, luminosité, arrière-plans) et **représentatives** de la réalité (attention à la class imbalance).
 * Il faut parfois ruser pour mieux représenter la réalité (ex. ajouter une classe pour représenter les anomalies).
 
 ### 3. Mini-jeu 2 : Les biais de l’intelligence
