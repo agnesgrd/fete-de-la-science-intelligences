@@ -78,6 +78,22 @@ C’est grâce à notre raisonnement, notre créativité et notre capacité à n
 Mais, contrairement à nous, la machine n’a pas de recul : elle applique ce qu’on lui apprend, même lorsque c’est faux.
 Notre rôle est donc de rester vigilants, de questionner les résultats et d’utiliser l’IA comme outil d’aide, jamais comme vérité absolue.
 
+## Pistes d'amélioration
+
+* **Recadrer la mission** : orienter l’atelier vers un domaine plus médical. Si l’objectif reste de travailler sur des images pour un rendu visuel adapté aux enfants, le dataset BRATS pour la segmentation des tumeurs est pertinent, surtout que c’est une tâche complexe, inaccessible aux enfants, ce qui renforce l’effet pédagogique.
+
+* **Introduire des concepts scientifiques** : aborder des notions comme les biais cognitifs dans l’apprentissage humain, en utilisant des exemples imagés facilement compréhensibles par les enfants.
+
+* **Clarifier le vocabulaire** : les enfants ont tendance à associer “IA” uniquement aux grands modèles génératifs (texte, images, voix), et peuvent sous-estimer que des modèles plus simples, comme la simple classification d’images, relèvent de l’apprentissage machine, et donc de l'IA. Il serait utile d’accompagner les mots-clés introduits (par exemple étiquette, neurone, biais) de visuels, par exemple un schéma récapitulatif construit avec eux au tableau, plutôt que de compter uniquement sur l’explication orale.
+ 
+* **Clarifier l’approche modèles vs données** : actuellement, l’atelier présente l'importance du choix des données, mais ne montre pas la diversité des architectures possibles. Il serait utile de leur faire entrevoir que l’apprentissage machine comporte deux volets : les modèles et les données, pour donner une vision plus complète du fonctionnement de l’IA.
+ 
+* **Varier les supports** : explorer d’autres formats que les images, par exemple des fichiers audio à écouter, du texte ou des dossiers patients à analyser.
+
+* **Adapter la durée** : si toutes ces améliorations sont intégrées, l’atelier pourrait durer 1h30 à 2h, ce qui reste court pour un sujet aussi vaste.
+
+* **Repenser la mission finale** : concevoir une tâche sur laquelle les enfants peuvent travailler de manière autonome, en reprenant bien les concepts appris.
+
 ## Structure du dépôt
 
 ```
